@@ -160,11 +160,7 @@ backend, database, and authentication all work together.
 
 ## ✦ Thanks for Visiting ✦
 
-<p>
-  <a href="https://tenor.com/view/the-ribbon-hero-sapphire-realization-freak-out-gif-2256731298781887941">
-    <img src="URL_GIF_ASLI_DISINI" width="500">
-  </a>
-</p>
+<img src="https://tenor.com/cQR04dcVFir.gif" width="500">
 
 ### "Sometimes you just gotta vibe and code." ☕
 
