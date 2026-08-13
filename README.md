@@ -146,11 +146,12 @@ backend, database, and authentication all work together.
 [✓] Build real projects
 [✓] Learn Laravel
 [✓] Learn Git & GitHub
+[✓] Ship something people actually use
 
 [ ] Become a better Full Stack Developer
 [ ] Build bigger projects
 [ ] Contribute to Open Source
-[ ] Ship something people actually use
+
 ```
 
 ---
