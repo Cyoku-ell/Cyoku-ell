@@ -75,7 +75,6 @@ Also frequently working with:
 * 🎨 Figma
 * 🔌 REST APIs
 * 📦 Composer
-* 🌐 Chrome DevTools
 * 🐙 Git & GitHub
 
 ---
@@ -137,26 +136,6 @@ backend, database, and authentication all work together.
 * Git & GitHub
 * Better UI / UX
 * Writing cleaner and more maintainable code
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cyoku-ell&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoku-ell&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Cyoku-ell&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
