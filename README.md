@@ -160,8 +160,19 @@ backend, database, and authentication all work together.
 
 ## ✦ Thanks for Visiting ✦
 
-<img src="./assets/denia.gif" width="500"/>
+<p>
+  <a href="https://tenor.com/view/the-ribbon-hero-sapphire-realization-freak-out-gif-2256731298781887941">
+    <img src="https://media1.tenor.com/m/2256731298781887941/tenor.gif" width="500">
+  </a>
+</p>
 
+### "Sometimes you just gotta vibe and code." ☕
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Cyoku-ell&style=flat-square&color=blue">
+
+</div>
 ### "Sometimes you just gotta vibe and code." ☕
 
 <br>
