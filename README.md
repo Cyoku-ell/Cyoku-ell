@@ -84,7 +84,7 @@ and turning random ideas into actual projects.
 ## 🛠️ Tools I Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
 </p>
 
 Also frequently working with:
