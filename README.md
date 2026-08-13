@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey, I'm Rafael 👋
+<a href="https://github.com/Cyoku-ell">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rafael+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%87%AE%F0%9F%87%A9;A+guy+who+vibe+codes+sometimes+%F0%9F%98%8E" alt="Typing SVG" />
+</a>
 
 ### Full Stack Developer • Software Engineering Student • Indonesia 🇮🇩
 
@@ -12,132 +14,133 @@
 
 ---
 
-## ✦ About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Software Engineering based in Indonesia 🇮🇩
-Currently studying at a Vocational High School.
+## 👋 About Me
 
-A guy who likes to pour ideas into code
-and vibe code sometimes.
+I'm a **Software Engineering student** based in Indonesia 🇮🇩.
 
-I enjoy building things for the web,
-learning new technologies,
-and turning random ideas into actual projects.
-```
+A guy who likes to pour ideas into code and **vibe code sometimes**.
 
-* 💻 Full Stack Developer
-* 🎓 Software Engineering student
-* 🇮🇩 Based in Indonesia
-* 🚀 Currently focusing on **Laravel & Web Development**
-* 🧠 Always learning something new
-* ☕ Powered by curiosity, random ideas, and questionable amounts of debugging
+- 💻 Full Stack Developer
+- 🎓 Vocational High School Student
+- 🚀 Focused on Web Development
+- 🧠 Always learning something new
+- ☕ Powered by curiosity & debugging
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css" />
 </p>
 
----
-
-## ⚡ Frameworks & Technologies
+## ⚡ Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,vite,mysql" />
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,vite" />
 </p>
 
-### Laravel Stack
+</td>
+</tr>
 
-* Laravel
-* Blade
-* Tailwind CSS
-* Vite
-* MySQL
-* Laravel Sanctum
-* Spatie Permission
-* Yajra DataTables
+<tr>
+<td width="50%" valign="top">
 
----
-
-## 🛠️ Tools I Use
+## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,phpstorm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,phpstorm" />
 </p>
 
-Also frequently working with:
+**Also working with:**
 
-* 🗄️ MySQL / XAMPP
-* 🧰 TablePlus
-* 🎨 Figma
-* 🔌 REST APIs
-* 📦 Composer
-* 🐙 Git & GitHub
+- MySQL / XAMPP
+- TablePlus
+- Composer
+- REST API
+- Chrome DevTools
 
----
+</td>
 
-## 🚀 What I Like Building
+<td width="50%" valign="top">
 
-```text
-Web Applications
-        ↓
-Backend & REST APIs
-        ↓
-Database Systems
-        ↓
-Admin Dashboards
-        ↓
-CRUD Applications
-        ↓
-Authentication & Authorization
-        ↓
-UI / UX
-```
+## 📚 Currently Learning
 
-I especially enjoy building projects where the frontend,
-backend, database, and authentication all work together.
+- Laravel & PHP
+- JavaScript
+- REST API Development
+- Database Design
+- Authentication & Authorization
+- UI / UX
+- Clean & Maintainable Code
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Major Contributions
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ⚡ PT PLN (PERSERO) — UID
 
 **Certificate Management Website**
 
-> Contributed to the development of a web-based certificate
-> management system for PT PLN (PERSERO) UID.
+Contributed to the development of a web-based certificate management system.
 
-**Tech Stack:** Laravel • PHP • JavaScript • MySQL • Tailwind CSS
+**Stack**
 
----
+`Laravel` `PHP` `JavaScript` `MySQL` `Tailwind CSS`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚛 PT COMTELINDO
 
 **Tracking & Validation Website**
 
-> Contributed to the development of a tracking and validation
-> website for PT COMTELINDO.
+Contributed to the development of a tracking and validation website.
 
-**Tech Stack:** Laravel • PHP • JavaScript • MySQL • Tailwind CSS
+**Stack**
+
+`Laravel` `PHP` `JavaScript` `MySQL` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cyoku-ell&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoku-ell&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Cyoku-ell&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
-## 📚 Currently Learning
-
-* Laravel & PHP
-* JavaScript
-* REST API Development
-* Database Design
-* Authentication & Authorization
-* Git & GitHub
-* Better UI / UX
-* Writing cleaner and more maintainable code
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🎯 Goals
 
@@ -146,26 +149,8 @@ backend, database, and authentication all work together.
 [✓] Build real projects
 [✓] Learn Laravel
 [✓] Learn Git & GitHub
-[✓] Ship something people actually use
+[✓] Ship something people use
 
 [ ] Become a better Full Stack Developer
 [ ] Build bigger projects
 [ ] Contribute to Open Source
-
-```
-
----
-
-<div align="center">
-
-## ✦ Thanks for Visiting ✦
-
-<img src="https://media1.tenor.com/m/H1GFKNlmfcUAAAAC/the-ribbon-hero-sapphire.gif" width="500">
-
-### "Sometimes you just gotta vibe and code." ☕
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Cyoku-ell&style=flat-square&color=blue">
-
-</div>
