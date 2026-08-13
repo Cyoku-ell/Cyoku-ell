@@ -162,7 +162,7 @@ backend, database, and authentication all work together.
 
 <p>
   <a href="https://tenor.com/view/the-ribbon-hero-sapphire-realization-freak-out-gif-2256731298781887941">
-    <img src="https://media1.tenor.com/m/2256731298781887941/tenor.gif" width="500">
+    <img src="URL_GIF_ASLI_DISINI" width="500">
   </a>
 </p>
 
