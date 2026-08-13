@@ -120,6 +120,7 @@ UI / UX
 
 I especially enjoy building projects where the frontend,
 backend, database, and authentication all work together.
+(Mostly vibe coded the dbs)
 
 </td>
 
