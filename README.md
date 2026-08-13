@@ -173,10 +173,3 @@ backend, database, and authentication all work together.
 <img src="https://komarev.com/ghpvc/?username=Cyoku-ell&style=flat-square&color=blue">
 
 </div>
-### "Sometimes you just gotta vibe and code." ☕
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Cyoku-ell&style=flat-square&color=blue" />
-
-</div>
