@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Cyoku-ell">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rafael+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%87%AE%F0%9F%87%A9;A+guy+who+vibe+codes+sometimes+%F0%9F%98%8E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rafael+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG">
 </a>
 
 ### Full Stack Developer • Software Engineering Student • Indonesia 🇮🇩
@@ -16,19 +16,29 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 👋 About Me
+## ✦ About Me
 
-I'm a **Software Engineering student** based in Indonesia 🇮🇩.
+```text
+Software Engineering based in Indonesia 🇮🇩
+Currently studying at a Vocational High School.
 
-A guy who likes to pour ideas into code and **vibe code sometimes**.
+A guy who likes to pour ideas into code
+and vibe code sometimes.
 
-- 💻 Full Stack Developer
-- 🎓 Vocational High School Student
-- 🚀 Focused on Web Development
-- 🧠 Always learning something new
-- ☕ Powered by curiosity & debugging
+I enjoy building things for the web,
+learning new technologies,
+and turning random ideas into actual projects.
+```
+
+* 💻 Full Stack Developer
+* 🎓 Software Engineering student
+* 🇮🇩 Based in Indonesia
+* 🚀 Currently focusing on **Laravel & Web Development**
+* 🧠 Always learning something new
+* ☕ Powered by curiosity, random ideas, and questionable amounts of debugging
 
 </td>
 
@@ -37,50 +47,82 @@ A guy who likes to pour ideas into code and **vibe code sometimes**.
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
 </p>
 
-## ⚡ Frameworks
+---
+
+## ⚡ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,vite,mysql" />
 </p>
 
+### Laravel Stack
+
+* Laravel
+* Blade
+* Tailwind CSS
+* Vite
+* MySQL
+* Laravel Sanctum
+* Spatie Permission
+* Yajra DataTables
+
 </td>
+
 </tr>
+</table>
 
+---
+
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 🛠️ Tools
+## 🛠️ Tools I Use
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,phpstorm" />
 </p>
 
-**Also working with:**
+Also frequently working with:
 
-- MySQL / XAMPP
-- TablePlus
-- Composer
-- REST API
-- Chrome DevTools
+* 🗄️ MySQL / XAMPP
+* 🧰 TablePlus
+* 🎨 Figma
+* 🔌 REST APIs
+* 📦 Composer
+* 🐙 Git & GitHub
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 Currently Learning
+## 🚀 What I Like Building
 
-- Laravel & PHP
-- JavaScript
-- REST API Development
-- Database Design
-- Authentication & Authorization
-- UI / UX
-- Clean & Maintainable Code
+```text
+Web Applications
+        ↓
+Backend & REST APIs
+        ↓
+Database Systems
+        ↓
+Admin Dashboards
+        ↓
+CRUD Applications
+        ↓
+Authentication & Authorization
+        ↓
+UI / UX
+```
+
+I especially enjoy building projects where the frontend,
+backend, database, and authentication all work together.
 
 </td>
+
 </tr>
 </table>
 
@@ -90,17 +132,17 @@ A guy who likes to pour ideas into code and **vibe code sometimes**.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚡ PT PLN (PERSERO) — UID
 
 **Certificate Management Website**
 
-Contributed to the development of a web-based certificate management system.
+> Contributed to the development of a web-based certificate
+> management system for PT PLN (PERSERO) UID.
 
-**Stack**
-
-`Laravel` `PHP` `JavaScript` `MySQL` `Tailwind CSS`
+**Tech Stack:** Laravel • PHP • JavaScript • MySQL • Tailwind CSS
 
 </td>
 
@@ -110,36 +152,36 @@ Contributed to the development of a web-based certificate management system.
 
 **Tracking & Validation Website**
 
-Contributed to the development of a tracking and validation website.
+> Contributed to the development of a tracking and validation
+> website for PT COMTELINDO.
 
-**Stack**
-
-`Laravel` `PHP` `JavaScript` `MySQL` `Tailwind CSS`
+**Tech Stack:** Laravel • PHP • JavaScript • MySQL • Tailwind CSS
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cyoku-ell&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoku-ell&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Cyoku-ell&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+## 📚 Currently Learning
+
+* Laravel & PHP
+* JavaScript
+* REST API Development
+* Database Design
+* Authentication & Authorization
+* Git & GitHub
+* Better UI / UX
+* Writing cleaner and more maintainable code
+
+</td>
+
 <td width="50%" valign="top">
 
 ## 🎯 Goals
@@ -149,8 +191,47 @@ Contributed to the development of a tracking and validation website.
 [✓] Build real projects
 [✓] Learn Laravel
 [✓] Learn Git & GitHub
-[✓] Ship something people use
+[✓] Ship something people actually use
 
 [ ] Become a better Full Stack Developer
 [ ] Build bigger projects
 [ ] Contribute to Open Source
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-stats-extended.vercel.app/api?username=Cyoku-ell&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cyoku-ell&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ Thanks for Visiting ✦
+
+<p>
+  <a href="https://tenor.com/view/the-ribbon-hero-sapphire-realization-freak-out-gif-2256731298781887941">
+    <img src="https://media.tenor.com/H1GFKNlmfcUAAAAC/the-ribbon-hero-sapphire.gif" width="500">
+  </a>
+</p>
+
+### "Sometimes you just gotta vibe and code." ☕
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Cyoku-ell&style=flat-square&color=blue">
+
+</div>
