@@ -173,13 +173,14 @@ backend, database, and authentication all work together.
 ## 📚 Currently Learning
 
 * Laravel & PHP
-* JavaScript
+* JavaScript & React
 * REST API Development
 * Database Design
 * Authentication & Authorization
 * Git & GitHub
 * Better UI / UX
 * Writing cleaner and more maintainable code
+  
 
 </td>
 
