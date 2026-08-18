@@ -55,7 +55,7 @@ and turning random ideas into actual projects.
 ## ⚡ Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,vite,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,react,mysql" />
 </p>
 
 ### Laravel Stack
