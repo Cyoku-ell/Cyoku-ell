@@ -226,7 +226,7 @@ backend, database, and authentication all work together.
 
 <p>
   <a href="https://tenor.com/view/the-ribbon-hero-sapphire-realization-freak-out-gif-2256731298781887941">
-    <img src="https://media.tenor.com/H1GFKNlmfcUAAAAC/the-ribbon-hero-sapphire.gif" width="500">
+    <img src="https://media1.tenor.com/m/QTgDjC83WHMAAAAC/the-ribbon-hero-netflix.gif" width="500">
   </a>
 </p>
 
