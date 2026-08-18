@@ -7,7 +7,7 @@
 ### Full Stack Developer • Software Engineering Student • Indonesia 🇮🇩
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,tailwind,github,vscode,react" />
 </p>
 
 </div>
@@ -47,7 +47,7 @@ and turning random ideas into actual projects.
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js" />
 </p>
 
 ---
