@@ -32,11 +32,9 @@ I enjoy building things for the web,
 learning new technologies,
 and turning random ideas into actual projects.
 ```
-
-* 💻 Full Stack Developer
 * 🎓 Software Engineering student
 * 🇮🇩 Based in Indonesia
-* 🚀 Currently focusing on **Laravel & Web Development**
+* 🚀 Currently focusing on **Web Development**
 * 🧠 Always learning something new
 * ☕ Powered by curiosity, random ideas, and questionable amounts of debugging
 
