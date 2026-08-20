@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rafael+%F0%9F%91%8B;%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG">
 </a>
 
-###• Software Engineering Student • Indonesia 🇮🇩
+• Software Engineering Student • Indonesia 🇮🇩
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,tailwind,github,vscode,react" />
